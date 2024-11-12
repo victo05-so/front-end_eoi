@@ -7,6 +7,7 @@
 ## 📖 Descripción del Proyecto
 
 Este repositorio contiene todos mis avances, proyectos y experimentos que realizo a lo largo del curso de Front-End. Desde aprender a colocar un `div` en el lugar correcto (¡misterio resuelto! 🎉) hasta crear interfaces interactivas y responsivas, este espacio muestra mi evolución como desarrollador web.
+fff
 
 ---
 
